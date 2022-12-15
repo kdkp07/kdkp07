@@ -3,7 +3,7 @@
 - 👀 I’m interested in Web development and Open Source contributions.
 - 🌱 I’m currently learning JavaScript and do Leetcode on regular basis.
 - 💞️ I’m looking to collaborate on development Projects
-
+- 📫 You can reach me via mail to patidarkuldeep660@gmail.com or tap this <a href="https://linktr.ee/kdkp07">Link</a>
 <!---
 kdkp07/kdkp07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

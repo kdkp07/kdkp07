@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Kuldeep Patidar
-- 🎓 I've graduated, B.Tech in Information Technology @NITK
-- 👀 I’m interested in Web development and Open Source contributions.
-- 🌱 I’m currently learning Spring and solving problems.
+- 🎓 I've graduated from NITK, B.tech in Infomation Technology.
+- 👀 I’m interested in building scalable applications using Spring Boot.
 - 💞️ I’m looking to collaborate on development Projects
 - 📫 You can reach me via mail to patidarkuldeep660@gmail.com or tap this <a href="https://linktr.ee/kdkp07">Link</a>
 <!---
